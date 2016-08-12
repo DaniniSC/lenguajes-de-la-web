@@ -11,6 +11,7 @@ h2 {
 p {
 	color:yellow;
 	font-size:14px;
+	word-wrap: break-word;
 }
 img {
 	border:solid blue 1px;
